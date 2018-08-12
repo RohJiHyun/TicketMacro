@@ -87,7 +87,7 @@ public class MainPanel extends JPanel {
 
 	public void setScreenManager(ScreenManager manager) {
 		screenManager = manager;
-		
+
 	}
 
 }
